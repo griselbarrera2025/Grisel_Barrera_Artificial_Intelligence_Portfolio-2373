@@ -55,51 +55,7 @@ Applied AI & Robotics student at Houston Community College with hands-on experie
 **Email:** griselbarrera2016@gmail.com  
 **LinkedIn:** [Grisel Barrera]  
 **GitHub:** [https://github.com/griselbarrera2025/Grisel_Barrera_Artificial_Intelligence_Portfolio-2373/edit/main/README.md]
-# Project Title
 
-## 📌 Problem Statement
-
-
-## 🛠 Approach & Methodology
-- Models, algorithms, and frameworks used
-- Reason for selecting them
-
-## 📊 Results & Evaluation
-- Accuracy: XX%
-- Precision, recall, F1-score
-- Key charts and visualizations
-
-## 📚 Learning Outcomes
-- Key technical skills learned
-- Challenges faced and how you solved them
-
-## ⚙ Requirements
-```bash
-pip install -r requirements.txt
-📂 Dataset
-Dataset source (link or instructions to access)
-
-Preprocessing steps
-
-▶ How to Run
-Clone the repository
-
-Install dependencies
-
-Run the main script or open the notebook
-
----
-
-## **requirements.txt**
-```txt
-numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-torch
-transformers
-jupyter
 
 
 
