@@ -1,5 +1,5 @@
 Grisel-Barrera-HCC-AI/
-├── README.md                  # Main portfolio overview (ready)
+├── README.md                  # Main portfolio overview 
 ├── requirements.txt           # Dependencies list
 ├── DeepLearning-ITAI2376/
 │   ├── NeuralNetworkZoo/
