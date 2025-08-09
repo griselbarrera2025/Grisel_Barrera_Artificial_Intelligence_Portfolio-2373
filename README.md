@@ -26,6 +26,7 @@ Grisel-Barrera-HCC-AI/
 │       ├── iot_script.py
 │       └── results/
 └── Presentation/
+
 # Grisel Barrera - Applied AI & Robotics Portfolio
 
 ## 📌 About Me
@@ -41,15 +42,25 @@ Applied AI & Robotics student at Houston Community College with hands-on experie
 **Tools:** Jupyter Notebook, GitHub, Google Colab  
 **Specialties:** Model training, transfer learning, AI-driven analytics
 
-## 📂 Portfolio Structure
-- **DeepLearning-ITAI2376:** Neural network architectures, diffusion models.
-- **NLP-ITAI2373:** NewsBot Intelligence 2.0, text processing pipeline.
-- **AI-at-the-Edge-IoT-ITAI3377:** Smart IoT Sensor Alert System.
+**Program:** Houston Community College — Applied AI & Robotics  
+**Date:** 2025-08-08  
 
+--## 📂 Portfolio Structure
+- **DeepLearning-ITAI2376**
+  - [Neural Network Zoo](./DeepLearning-ITAI2376/NeuralNetworkZoo/)
+  - [Diffusion Model](./DeepLearning-ITAI2376/DiffusionModel/)
+- **NLP-ITAI2373**
+  - [NewsBot Intelligence 2.0](./NLP-ITAI2373/NewsBot_Intelligence_2.0/)
+  - [Text Processing Project](./NLP-ITAI2373/TextProcessingProject/)
+- **AI-at-the-Edge-IoT-ITAI3377**
+  - [Smart IoT Sensor System](./AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
+
+---
 ## 🔗 Featured Projects
-- [NewsBot Intelligence 2.0](./NLP-ITAI2373/NewsBot_Intelligence_2.0)
-- [Neural Network Zoo](./DeepLearning-ITAI2376/NeuralNetworkZoo)
-- [Smart IoT Sensor System](./AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem)
+- [NewsBot Intelligence 2.0](./NLP-ITAI2373/NewsBot_Intelligence_2.0/)
+- [Neural Network Zoo](./DeepLearning-ITAI2376/NeuralNetworkZoo/)
+- [Smart IoT Sensor System](./AI-at-the-Edge-IoT-ITAI3377/SmartSensorSystem/)
+
 
 ## 📞 Contact
 **Email:** griselbarrera2016@gmail.com  
